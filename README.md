@@ -14,4 +14,6 @@ Alex is able to analyse data received from the LiDAR to map out the environment 
 
 Alex is able to move straight, turn left, turn right and reverse based on the commands given by the operator. The speed of the movement can also be controlled by the operator. With the mapped environment, the operator can identify obstacles and avoid them.
 
+<p align="center">
 <img src="images/Alex.png">
+  </p>
